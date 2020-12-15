@@ -1,6 +1,8 @@
 # API
 
 /!\ Written in french
+/!\ Ce projet a été créer pour but de démonstration, il n'est pas sécurisé,
+ne l'utilisé pas en production
 
 ## Description
 
